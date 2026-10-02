@@ -1,0 +1,7 @@
+{
+  "name": "EU Navigator & AI Orzu",
+  "description": "Интерактивный портал релокации в ЕС с витриной программ, дорожной картой и ИИ-консультантом Орзу.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
